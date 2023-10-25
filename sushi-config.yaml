@@ -3,7 +3,7 @@ k# ╭────────────────────────�
 # │  used properties are included. For a list of all supported properties and their functions,     │
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
-id: who.fhir.smart-immunizations-measles
+id: KenyaHK.fhir.smart-immunizations-measles
 canonical: http://moh.go.ke/ig/smart-immunizations-measles
 name: SMART
 # title: Example Title
